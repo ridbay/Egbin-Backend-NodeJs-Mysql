@@ -1,0 +1,13 @@
+Create database
+CREATE DATABASE leave_management;
+
+
+
+npx create-react-app my-app
+
+ /opt/cpanel/ea-nodejs10/bin/npm install
+
+  /opt/cpanel/ea-nodejs10/bin/npx create-react-app frontend
+
+
+/opt/cpanel/ea-nodejs10/bin/npm install @material-ui/core @material-ui/icons axios material-table react react-dom react-redux react-router-dom react-scripts
