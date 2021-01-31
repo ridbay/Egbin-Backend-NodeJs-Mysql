@@ -13,28 +13,28 @@ Installs the dependencies<br />
 Runs the app in the development mode.<br />
 Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
 
-### Available Routes
+## Available Routes
 
-## Base Route
+### Base Route
 
     http://localhost:8081,
 
-## User Routes
+### User Routes
 
-# User Sign Up (POST)
+#### User Sign Up (POST)
     http://localhost:8081/auth/signup
 
-# User Sign In (POST)
+#### User Sign In (POST)
     http://localhost:8081/auth/signin
 
-# Get All Users (GET)
+#### Get All Users (GET)
     http://localhost:8081/auth/allUsers
 
-# Get One User (GET)
+#### Get One User (GET)
     http://localhost:8081/auth/OneUser
 
-# Update One Users(PUT)
+#### Update One Users(PUT)
     http://localhost:8081/auth/OneUser
 
-# Delete One Users(DELETE)
+#### Delete One Users(DELETE)
     http://localhost:8081/auth/OneUser
